@@ -1,0 +1,20 @@
+Class Building
+
+waterWork(boolean true)
+waterBill(float)
+rentBill(float)
+barStocked(string)
+dirtyFridge(boolean)
+meatStocked(boolean)
+electricBill(float)
+gasBill(float)
+openTime(String)
+openDay(String)
+
+sumBills(takes waterBill, rentBill, and gasBill and sums them)
+
+fridgeClean(turns boolean dirtyFridge from true to false)
+
+addBooze(adds to the barStocked array string)
+
+noMeat(subtracts to the meatStocked array string)
