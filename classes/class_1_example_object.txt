@@ -1,0 +1,11 @@
+Cathy(['mon', 'tues', 'wed', 'thur'], 41.8, false, "Oct 10 2013", 25.75, ['Employee of the year'])
+
+
+
+addShift(adds a day to the onShiftDay string); added 'fri' to the onShiftDay array
+
+addAward(adds an award to the awarded string); added Leadership award to the awarded array
+
+Manager(turns the salary boolean to true); toggled to Manager salary to true
+
+weeklyPay(takes timeWorked and multiples payAmount); calculated weeklyPay pay by multiplying  timeWorked and multiples
