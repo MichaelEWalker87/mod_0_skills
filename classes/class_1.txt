@@ -1,0 +1,16 @@
+Class Employees
+
+onShiftDay(string)
+timeWorked(float)
+salary(boolean)
+anniversaryDate (string)
+payAmount(float)
+awarded(string)
+
+addShift(adds a day to the onShiftDay string);
+
+addAward(adds an award to the awarded string);
+
+Manager(turns the salary boolean to true);
+
+weeklyPay(takes timeWorked and multiples payAmount)
