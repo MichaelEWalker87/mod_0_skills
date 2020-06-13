@@ -6,6 +6,6 @@ addShift(adds a day to the onShiftDay string); added 'fri' to the onShiftDay arr
 
 addAward(adds an award to the awarded string); added Leadership award to the awarded array
 
-Manager(turns the salary boolean to true); toggled to Manager salary to true
+addManager(turns the salary boolean to true); toggled to addsManager salary to true
 
-weeklyPay(takes timeWorked and multiples payAmount); calculated weeklyPay pay by multiplying  timeWorked and multiples
+sumWeeklyPay(takes timeWorked and multiples payAmount); calculated sumWeeklyPay pay by multiplying  timeWorked and multiples

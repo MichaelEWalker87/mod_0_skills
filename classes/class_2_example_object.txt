@@ -3,13 +3,13 @@ Class Building
 waterWork(boolean true)
 waterBill(float)
 rentBill(float)
-barStocked(string)
+barStock[string]
 dirtyFridge(boolean)
 meatStocked(boolean)
 electricBill(float)
 gasBill(float)
-openTime(String)
-openDay(String)
+openTime[String]
+
 
 sumBills(takes waterBill, rentBill, and gasBill and sums them)
 

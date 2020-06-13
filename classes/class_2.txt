@@ -1,0 +1,14 @@
+broadwayLocation(true, 392.20, 1298.00, ["rum", "whiskey", "tequila"], true, ["pork", "steak", "Chicken"], 209.90, 20.90, ["mon 8-5","tues 8-5", "wed 8-5", "thur 8-5", "fri 8-5", "sat 10-5"], )
+
+
+
+
+
+
+sumBills(takes waterBill, rentBill, and gasBill and sums them) totals all bill to 1921
+
+fridgeClean(turns boolean dirtyFridge from true to false) turns dirtyFridge false
+
+addBooze(adds to the barStock array string) added ["Rye"] to the array barStock
+
+noMeat(subtracts to the meatStock array string) removed pork from the array string

@@ -1,0 +1,20 @@
+var food = "Burger";
+console.log(food);
+
+var is_delicious(true);
+
+food = "yogurt";
+
+var numb2 = 42;
+
+var num7 = 2;
+
+console.log(num7/numb2);
+
+var songs = ["hey jude", "row row your boat"]
+
+var removeSong = songs.shift();
+console.log(songs);
+
+
+console.log("We have " + food.length + " characters in the food string" )
